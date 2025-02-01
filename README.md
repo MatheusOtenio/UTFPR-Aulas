@@ -9,7 +9,7 @@ Este repositório contém códigos desenvolvidos durante minhas aulas na UTFPR, 
 Desenvolvimento de software utilizando Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> , explorando conceitos de Programação Orientada a Objetos, como classes, objetos, herança e polimorfismo.
 
 ### Assembly (MIPS)
-Implementação de programas em Assembly MIPS <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/MIPS_Logo.svg" width="20"/> , analisando o funcionamento interno dos computadores, incluindo CPU, memória e execução de instruções.
+Implementação de programas em Assembly MIPS <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3b/MIPS_Logo.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg)" width="20"/> , analisando o funcionamento interno dos computadores, incluindo CPU, memória e execução de instruções.
 
 ### Database_SQL (MySQL)
 Gerenciamento e modelagem de dados utilizando SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> , com foco em consultas e operações no banco de dados MySQL.
