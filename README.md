@@ -5,10 +5,10 @@ Este repositório contém códigos desenvolvidos durante minhas aulas na UTFPR, 
 
 ## Estrutura do Repositório
 
-### Object-Oriented_Programming (Java)
+### Object-Oriented_Programming <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/>
 Desenvolvimento de software utilizando Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> , explorando conceitos de Programação Orientada a Objetos, como classes, objetos, herança e polimorfismo.
 
-### Assembly (MIPS)
+### Assembly (MIPS) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/>
 Implementação de programas em Assembly MIPS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20"/> , analisando o funcionamento interno dos computadores, incluindo CPU, memória e execução de instruções.
 
 ### Database_SQL (MySQL)
