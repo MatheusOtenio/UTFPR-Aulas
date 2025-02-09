@@ -11,9 +11,12 @@
 #define MAX_POKEMONS 721
 #define TAMANHO_MAX_LINHA 1024
 
+
 //===============================================================================================//
 
 // Estrutura para representar as escolhas do usuário
+
+
 typedef struct {
     int numero[3];
     char nome[3][30];
